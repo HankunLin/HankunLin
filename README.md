@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-sup y'all
+hey y'all i'm hankun, i'll be filling this in soon...
 <!--
 **HankunLin/HankunLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
